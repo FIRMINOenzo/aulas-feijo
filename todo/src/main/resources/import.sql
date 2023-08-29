@@ -1,0 +1,1 @@
+INSERT INTO tasks(tas_title, tas_desc, tas_status) VALUES('Programar TODO list', 'Lucas e Enzo devem programar um app de todo list com uma API REST em Java Spring e o front com HTML e CSS', 0)
